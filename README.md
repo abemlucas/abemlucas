@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👋 I'm a Computer Science major, interested in data science and algorithms, information technology, and artificial intelligence.
+
+💻 Fascinated by new technology and machine learning, I'm a determined individual who is passionate about the developing computer related world.
+
 ## My Github Statistics So Far!
 
 ![Abem Lucas's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=abemlucas&show_icons=true)
+
+## Find me on other platforms!
+
+- [Instagram](https://www.instagram.com/abem_lucas/)
+- [LinkedIn](https://www.linkedin.com/in/abem-lucas-592592219/)
