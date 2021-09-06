@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 I'm Abem Lucas, CS Student @ SCU 2025! Welcome to my Github portfolio!
 
 <!--
 **abemlucas/abemlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Github Statistics So Far!
+
+![Abem Lucas's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=abemlucas&show_icons=true)
