@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 ## Find me on other platforms!
 
-- [Instagram](https://www.instagram.com/abem_lucas/)
-- [LinkedIn](https://www.linkedin.com/in/abem-lucas-592592219/)
+- Find me on [Instagram](https://www.instagram.com/abem_lucas/) 😎
+- Connect with me at my [LinkedIn](https://www.linkedin.com/in/abem-lucas-592592219/) 😃
