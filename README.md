@@ -19,9 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-🔭 I'm a Computer Science major, interested in data science and algorithms, information technology, and artificial intelligence.
+- 🔭 I'm a Computer Science major, interested in data science and algorithms, information technology, and artificial intelligence.
 
-💻 Fascinated by new technology and machine learning, I'm a determined individual who is passionate about the developing computer related world.
+- 💻 Fascinated by new technology and machine learning, I'm a determined individual who is passionate about the developing computer related world.
+
+- 👀 Looking to collaborate on various projects and currently working on social media scrapers.
+
+- 📫 Feel free to reach out or contact me!
 
 ## My Github Statistics So Far!
 
