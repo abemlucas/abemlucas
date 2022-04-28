@@ -1,7 +1,6 @@
 ### 👋 I'm Abem Lucas, CS Student @ SCU 2025! Welcome to my Github portfolio!
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76049212/132263080-cc5a891f-20f2-4861-bad1-04b181d3b3b0.jpg"/>
 </p>
 
 <!--
